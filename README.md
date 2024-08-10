@@ -15,5 +15,5 @@ I'm an asipring Cloud Engineer currently studying at AltSchool Africa class of 2
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Udokz&show_icons=true&include_all_commits=true&hide_border=true" alt="Udoka's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KierianUdoka&langs_count=8&layout=compact&hide_border=true" alt="Udoka's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Udokz&show_icons=true&include_all_commits=true&hide_border=true" alt="Udoka's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udokz&langs_count=8&layout=compact&hide_border=true" alt="Udoka's GitHub stats" /> |
 | ------------- | ------------- 
