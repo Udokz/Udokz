@@ -8,7 +8,7 @@ I'm an asipring Cloud Engineer currently studying at AltSchool Africa class of 2
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning Html, CSS, Javascript and Terminals.
+- 🌱 I’m currently learning Html, CSS, Javascript, Linux, Cloud Services (AWS).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing mailtokierianudoka@gmail.com
